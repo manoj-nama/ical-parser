@@ -1,5 +1,4 @@
 # ical-parser
-===
 A Simple non-blocking `ical` to `JSON` parser
 
 ## Getting started
