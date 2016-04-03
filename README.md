@@ -11,7 +11,7 @@ Usage
 ```
 var parser = require("ical-parser");
 
-ical2json.convert(icalFileData, function(err, parsedResponse) {
+parser.convert(icalFileData, function(err, parsedResponse) {
 	if(err) {
 		console.log("Error occurred parsing ical data", err);
 	}	else {
