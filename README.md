@@ -1,6 +1,9 @@
 # ical-parser
 A Simple non-blocking `ical` to `JSON` parser
 
+[![ical-parser logo](https://res.cloudinary.com/djvymo9lw/image/upload/q_60/ical-parser.png)](https://www.npmjs.com/package/ical-parser)
+
+
 ## Getting started
 Download and install from npm
 ```
