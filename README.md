@@ -1,13 +1,11 @@
 # ical-parser
-A Simple non-blocking `ical` to `JSON` parser
-
 ===
-A simple node package to convert iCal data (.ics file) to JSON format
+A Simple non-blocking `ical` to `JSON` parser
 
 ## Getting started
 Download and install from npm
 ```
-npm install -g ical-parser
+npm install ical-parser --save
 ```
 
 Usage
