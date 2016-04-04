@@ -11,7 +11,7 @@ npm install ical-parser --save
 ```
 
 Usage
-```
+``` javascript
 var parser = require("ical-parser");
 
 parser.convert(icalFileData, function(err, parsedResponse) {
@@ -24,7 +24,7 @@ parser.convert(icalFileData, function(err, parsedResponse) {
 ```
 
 Sample output
-```
+``` json
 {
   "VCALENDAR": [
     {
